@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1354738787 source:c:\users\jorge armando\documents\proyecto jorge a. mendez m. 10-10449\proyectofinal\main.c
+	"Agenda.h"
+
+1354810974 source:c:\users\jorge armando\documents\proyecto jorge a. mendez m. 10-10449\proyectofinal\agenda.c
+	"Agenda.h"
+	"Pila.h"
+	<string.h>
+
+1354748107 c:\users\jorge armando\documents\proyecto jorge a. mendez m. 10-10449\proyectofinal\agenda.h
+	<stdio.h>
+	<stdlib.h>
+
+1354675257 source:c:\users\jorge armando\documents\proyecto jorge a. mendez m. 10-10449\proyectofinal\pila.c
+	"Pila.h"
+
+1354675226 c:\users\jorge armando\documents\proyecto jorge a. mendez m. 10-10449\proyectofinal\pila.h
+	<stdio.h>
+	<stdlib.h>
+
